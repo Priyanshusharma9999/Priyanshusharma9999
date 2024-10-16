@@ -40,7 +40,7 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 
 <b>📊GitHub Stats:</b>
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshusharma9999&theme=dark&hide_border=false" height="140px"  style="min-width: 200px"> <img src="https://github-readme-stats.vercel.app/api?username=Priyanshusharma9999&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140px"  style="min-width: 200px" >  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshusharma9999&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"   style="min-width: 200px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshusharma9999&theme=dark&hide_border=false" height="140px"  style="min-width: 200px"> <img src="https://github-readme-stats.vercel.app/api?username=Priyanshusharma9999&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140px"  style="min-width: 200px" >  
 </div>
 
 

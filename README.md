@@ -3,9 +3,9 @@
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="https://www.linkedin.com/in/priyanshusharma9999/">LinkedIn</a> |
-  <a href="https://x.com/priyanshusharma9999">Twitter</a> |
+  <a href="https://x.com/priyanshusharma____">Twitter</a> |
   <a href="https://www.instagram.com/priyanshusharma9999">Instagram</a> |
-  <a href="mailto:connect@priyanshtrigunayat@gmail.com">Contact me</a> 
+  <a href="mailto:priyanshtrigunayat@gmail.com">Contact me</a> 
 </p> 
 
 -----------------------------------------------------------
